@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(59, 50, 49);
+    text-align: center;
+}
+
+fieldset {
+    background-color: aliceblue;
+    width: 300px;
+    margin-left: 33%;
+}
+
+a {
+    color: black;
+}
+
+.fil {
+    background-color: rgb(200, 191, 191);
+    margin-left: 90px;
+    color: rgb(3, 3, 3);
+    
+}
